@@ -1,0 +1,1 @@
+export { ContactsDetailed } from './ContactsDetailed'
