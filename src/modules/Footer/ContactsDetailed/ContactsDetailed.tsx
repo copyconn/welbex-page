@@ -27,6 +27,11 @@ const Container = styled.div`
   flex-direction: column;
   margin-left: 163px;
   align-items: flex-end;
+
+  @media (max-width: 700px) {
+    align-items: flex-start;
+    margin-left: 0;
+  }
 `
 
 const Title = styled.span`

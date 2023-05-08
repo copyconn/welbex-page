@@ -18,14 +18,13 @@ export const Logo = () => {
 
 const Container = styled.div`
   color: #E4E5EA;
-
   display: flex;
   flex-direction: column;
   gap: 10px;
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 10px;
   line-height: 12px;
   margin-top: 11px;
 `

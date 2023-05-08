@@ -25,5 +25,6 @@ const Container = styled.div`
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
+  z-index: 1;
 `
 
